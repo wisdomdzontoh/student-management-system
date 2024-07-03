@@ -18,6 +18,8 @@ A simple CRUD (Create, Read, Update, Delete) web application for managing studen
 
 ## Installation
 
+link to repo: https://github.com/wisdomdzontoh/student-management-system
+
 1. **Clone the repository:**
 
    ```sh
