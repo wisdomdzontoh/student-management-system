@@ -1,3 +1,8 @@
+## Authors:
+
+- Wisdom Mawuli Dzontoh - 4235230058
+- Justin Koku Gbafa - 4245230009
+
 # Student Management System
 
 A simple CRUD (Create, Read, Update, Delete) web application for managing student information, built using PHP and Bootstrap 5.
